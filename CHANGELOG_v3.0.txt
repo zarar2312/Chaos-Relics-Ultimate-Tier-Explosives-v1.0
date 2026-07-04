@@ -1,3 +1,17 @@
+CHAOS RELICS: ULTIMATE TIER EXPLOSIVES - v3.0 CHANGELOG
+===========================================================
+
+GAME COMPATIBILITY UPDATE
+- Updated mod for 7 Days to Die v3.0 compatibility.
+- Pipe Bomb and Dynamite tiers now extend v3.0 base items:
+  - U1PipeBomb-U5PipeBomb -> thrownAmmoPipeBomb
+  - U1Dinamit-U5Dinamit -> thrownDynamite
+- Existing Ultimate Tier stats and progression remain unchanged.
+
+NOTES
+- Recipes and localization keys were preserved.
+- Mod metadata and README were updated to v3.0.
+
 CHAOS RELICS: ULTIMATE TIER EXPLOSIVES - v2.2 CHANGELOG
 ===========================================================
 

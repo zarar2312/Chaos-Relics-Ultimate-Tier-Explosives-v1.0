@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xml>
 	<Name value="ChaosRelicsUltimateTierExplosives" />
-	<DisplayName value="Chaos Relics - Ultimate Tier Explosives - v2.2" />
-	<Description value="En düşük bomba türünden en yüksek bomba türüne kadar: blok hasarı düşük, patlama hasarı yüksek ve etki alanı büyük bombalar modudur. v2.2 uyumlu.\nFrom the lowest bomb type to the highest bomb type: bombs with low block damage, high explosion damage and a large area of ​​effect. Compatible with v2.2." />
+	<DisplayName value="Chaos Relics - Ultimate Tier Explosives - v3.0" />
+	<Description value="TR: En dusuk bomba turunden en yuksek bomba turune kadar, dusuk blok hasari ve yuksek patlama hasari sunan genis etki alanli bombalar. v3.0 uyumlu.\nEN: From the lowest bomb type to the highest, this mod adds wide-area explosives with low block damage and high entity damage. Compatible with v3.0.\nDE: Von der niedrigsten bis zur hoechsten Bombenstufe bietet dieser Mod Sprengstoffe mit geringem Blockschaden und hohem Entitaetsschaden. Kompatibel mit v3.0.\nES: Desde el tipo de bomba mas bajo hasta el mas alto, este mod agrega explosivos de gran area con bajo dano a bloques y alto dano a entidades. Compatible con v3.0.\nFR: Du type de bombe le plus bas au plus eleve, ce mod ajoute des explosifs a large zone avec faibles degats aux blocs et forts degats aux entites. Compatible v3.0.\nIT: Dal tipo di bomba piu basso al piu alto, questa mod aggiunge esplosivi ad ampia area con basso danno ai blocchi e alto danno alle entita. Compatibile con v3.0.\nJA: 低ティアから高ティアまで、ブロックダメージを抑えつつエンティティダメージを高めた広範囲爆発物を追加します。v3.0対応。\nKO: 낮은 티어부터 높은 티어까지, 블록 피해는 낮고 엔티티 피해는 높은 광역 폭발물을 추가합니다. v3.0 호환.\nPL: Od najnizszego do najwyzszego poziomu bomb, mod dodaje ladunki o duzym zasiegu, niskich obrazeniach blokow i wysokich obrazeniach jednostek. Zgodny z v3.0.\nPT-BR: Do menor ao maior nivel de bomba, este mod adiciona explosivos de grande area com baixo dano em blocos e alto dano em entidades. Compativel com v3.0.\nRU: От самых низких до самых высоких уровней бомб, мод добавляет взрывчатку с большим радиусом, низким уроном по блокам и высоким уроном по целям. Совместимо с v3.0.\nZH-CN: 从最低到最高炸弹等级，本模组加入大范围爆炸物，降低方块伤害并提高实体伤害。兼容 v3.0。\nZH-TW: 從最低到最高炸彈等級，本模組加入大範圍爆炸物，降低方塊傷害並提高實體傷害。相容 v3.0。" />
 	<Author value="Efraim K." />
-	<Version value="2.2" />
-	<Website value="https://github.com/zarar2312/Chaos-Relics-Ultimate-Tier-Explosives-v2.2" />
+	<Version value="3.0" />
+	<Website value="https://github.com/zarar2312/Chaos-Relics-Ultimate-Tier-Explosives" />
 </xml>
